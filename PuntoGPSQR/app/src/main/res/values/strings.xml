@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Punto GPS QR</string>
+    <string name="creditosTxt"><![CDATA[Esta aplicación ha sido diseñada e implementada por:<br/>&#8226;Carlos Cobos<br/>&#8226;Jose Antonio Jiménez]]></string>
+
+    <string name="menuCreditos">Créditos</string>
+    <string name="btnScan">Escanear QR</string>
+</resources>

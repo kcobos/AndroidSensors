@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brújula por Voz</string>
+    <string name="creditosTxt"><![CDATA[Esta aplicación ha sido diseñada e implementada por:<br/>&#8226;Carlos Cobos<br/>&#8226;Jose Antonio Jiménez]]></string>
+    <string name="descriptionImg">Flecha Brújula</string>
+    <string name="descFondo">Fondo Brújula</string>
+    <string name="txtBtn">Decir orientación</string>
+    <string name="txtOrientado">Ya se encuentra orientado.\nEn línea recta tiene su objetivo</string>
+    
+    <string name="menuCreditos">Créditos</string>
+    <string name="menuConfiguracion">Configuración</string>
+
+    <string name="txtConfiguracionIdioma">Seleccione idioma a reconocer por voz</string>
+    <string name="btnIdiomaIngles">Ingles</string>
+    <string name="btnIdiomaEspañol">Español</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Puntos Gesto Foto</string>
+    <string name="creditosTxt"><![CDATA[Esta aplicación ha sido diseñada e implementada por:<br/>&#8226;Carlos Cobos<br/>&#8226;Jose Antonio Jiménez]]></string>
+    
+    <string name="menuCreditos">Créditos</string>
+    <string name="menuConfiguracion">Configuración</string>
+
+    <string name="descriptionImg">ImageView</string>
+    <string name="confTXT">Dibuja un nuevo patrón</string>
+
+
+</resources>
